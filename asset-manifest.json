@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StellarMood/static/css/main.1eca4810.css",
+    "main.js": "/StellarMood/static/js/main.618d5323.js",
+    "static/js/453.e762c62f.chunk.js": "/StellarMood/static/js/453.e762c62f.chunk.js",
+    "index.html": "/StellarMood/index.html",
+    "main.1eca4810.css.map": "/StellarMood/static/css/main.1eca4810.css.map",
+    "main.618d5323.js.map": "/StellarMood/static/js/main.618d5323.js.map",
+    "453.e762c62f.chunk.js.map": "/StellarMood/static/js/453.e762c62f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eca4810.css",
+    "static/js/main.618d5323.js"
+  ]
+}
