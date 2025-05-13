@@ -1,7 +1,7 @@
 {
   "name": "stellar-mood",
   "version": "0.1.0",
-  "homepage": "https://nandu-555.github.io/StellarMood",
+  "homepage": "https://nandu-555.github.io/StellarMood/",
   "private": true,
   "dependencies": {
     "@react-three/drei": "^10.0.7",
